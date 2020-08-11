@@ -1,0 +1,2 @@
+from gcr.io/knative-releases/knative.dev/eventing/cmd/webhook@sha256:5ec94b03015378e8309e94cb5415f61e1353748d7a46015578d70763835adb7e
+MAINTAINER alufer8dock
